@@ -1,3 +1,4 @@
+
 CREATE TABLE IF NOT EXISTS `player_blips` (
   `citizenid` varchar(50) NOT NULL,
   `label` varchar(100) NOT NULL,
